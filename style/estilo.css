@@ -60,6 +60,8 @@ header > p {
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 40px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
 nav {
@@ -123,6 +125,7 @@ main a {
     text-decoration: none;
     background-color: var(--cor1);
     padding: 2px 6px;
+    border-radius: 10px;
 }
 
 main a:hover {
